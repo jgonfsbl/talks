@@ -7,3 +7,8 @@
 # MacOSX
 .DS_Store
 
+
+# Keynote y Powerpoint
+*.key
+*.ppt
+*.pptx
