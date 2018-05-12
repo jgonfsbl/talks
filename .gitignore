@@ -1,0 +1,9 @@
+# Ignorar fuentes y logs
+**/[Ll]og
+**/[Ll]ogs 
+**/[Ss]ources
+**/[Ff]uentes
+
+# MacOSX
+.DS_Store
+
